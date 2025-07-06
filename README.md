@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=👋%20Hi,%20I’m%20Jeonkyujin&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=👋%20Hi,%20I’m%20Jeonkyujin&fontSize=30)
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
