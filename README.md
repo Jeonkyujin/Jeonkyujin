@@ -16,13 +16,16 @@
 
 
 ### 🚀Ongoing Projects
-<p align="left">
-  <strong>🔗 링크 아카이빙 서비스, Odit</strong> 📌<a href="https://github.com/IT-Cotato/10th-ODIT-BE"><strong>GitHub Repository</strong></a>
-</p>
-
-<p align="left">
-  <strong>🏦 오픈 뱅킹 코어 서비스, OpenVBank</strong> 📌<a href="https://github.com/Open-Virtual-bank/Open-Virtual-Bank-Core"><strong>GitHub Repository</strong></a>
-</p>
+<ul align="left">
+  <li>
+    <strong>링크 아카이빙 서비스, Odit</strong> 📌
+    <a href="https://github.com/IT-Cotato/10th-ODIT-BE"><strong>GitHub Repository</strong></a>
+  </li>
+  <li>
+    <strong>오픈 뱅킹 코어 서비스, OpenVBank</strong> 📌
+    <a href="https://github.com/Open-Virtual-bank/Open-Virtual-Bank-Core"><strong>GitHub Repository</strong></a>
+  </li>
+</ul>
 
 ### 🏅Solved.ac
 <p align="left">
