@@ -22,8 +22,8 @@
     <a href="https://github.com/IT-Cotato/10th-ODIT-BE"><strong>GitHub Repository</strong></a>
   </li>
   <li>
-    <strong>오픈 뱅킹 코어 서비스, OpenVBank</strong> 📌
-    <a href="https://github.com/Open-Virtual-bank/Open-Virtual-Bank-Core"><strong>GitHub Repository</strong></a>
+    <strong>국내 여행 지갑 서비스, Danji</strong> 📌
+    <a href="https://github.com/KB-project-14/DanJi-BE"><strong>GitHub Repository</strong></a>
   </li>
 </ul>
 
